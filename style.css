@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding:  0;
+}
+.imgs-card{
+    height: 300px;
+    background-size: cover;
+    background-image: no-repeat;
+}
+/*Form-section*/
+.form-section{
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+.btn-primary{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
